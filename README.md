@@ -1,6 +1,6 @@
 
 
-![logo](https://github.com/AnushaSingh94/AnushaSingh94/blob/main/Banner.png)
+
 
 <h1 align="center">Hi 👋, I'm Anusha Singh</h1>
 <h3 align="center">Frontend Developer</h3>
